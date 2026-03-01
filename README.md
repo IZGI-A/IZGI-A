@@ -6,8 +6,6 @@
 </p>
 
 
-
-
 <!--
 <p align="center">
   <img alight=left  height="160" src="https://github-readme-stats.vercel.app/api?username=IZGI-A&show_icons=true">
